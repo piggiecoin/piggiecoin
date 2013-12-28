@@ -37,8 +37,8 @@ Special reward system: Random block ultra high rewards
     make -f makefile.unix USE_UPNP=1 USE_IPV6=1 USE_QRCODE=1
 
 ### Ports
-RPC 3808
-P2P 3809
+RPC 28888
+P2P 28889
 
 ## License
 Piggiecoin is released under the terms of the MIT license. See [COPYING](COPYING)
